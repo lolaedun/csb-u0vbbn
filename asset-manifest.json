@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://lolaedun.github.io/csb-u0vbbn/static/css/main.a3cd2832.chunk.css",
+    "main.js": "https://lolaedun.github.io/csb-u0vbbn/static/js/main.63fa402e.chunk.js",
+    "main.js.map": "https://lolaedun.github.io/csb-u0vbbn/static/js/main.63fa402e.chunk.js.map",
+    "runtime-main.js": "https://lolaedun.github.io/csb-u0vbbn/static/js/runtime-main.f054fc96.js",
+    "runtime-main.js.map": "https://lolaedun.github.io/csb-u0vbbn/static/js/runtime-main.f054fc96.js.map",
+    "static/js/2.f502b916.chunk.js": "https://lolaedun.github.io/csb-u0vbbn/static/js/2.f502b916.chunk.js",
+    "static/js/2.f502b916.chunk.js.map": "https://lolaedun.github.io/csb-u0vbbn/static/js/2.f502b916.chunk.js.map",
+    "index.html": "https://lolaedun.github.io/csb-u0vbbn/index.html",
+    "static/css/main.a3cd2832.chunk.css.map": "https://lolaedun.github.io/csb-u0vbbn/static/css/main.a3cd2832.chunk.css.map",
+    "static/js/2.f502b916.chunk.js.LICENSE.txt": "https://lolaedun.github.io/csb-u0vbbn/static/js/2.f502b916.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f054fc96.js",
+    "static/js/2.f502b916.chunk.js",
+    "static/css/main.a3cd2832.chunk.css",
+    "static/js/main.63fa402e.chunk.js"
+  ]
+}
